@@ -532,26 +532,20 @@ http://50.7.66.234:8080/moontools/6548@89787/53489
 http://50.7.66.234:8080/moontools/6548@89787/1086208
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="•  ECUADOR •",Ecuavisa
 http://50.7.66.234:8080/moontools/6548@89787/3433
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="•  ECUADOR •",Ecuavisa 3
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="•  ECUADOR •",Ecuavisa 2
 http://192.99.70.160:25461/Victor/Victor/358
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="•  ECUADOR •",Ecuavisa 4
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="•  ECUADOR •",Ecuavisa 3
 http://192.99.70.160:25461/Victor/Victor/357
-#EXTINF:-1 tvg-id="Oromar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="•  ECUADOR •",Oromar TV
-http://50.7.66.234:8080/moontools/6548@89787/3431
 #EXTINF:-1 tvg-id="Tc Television" tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="•  ECUADOR •",TC Television
 http://192.99.70.160:25461/Victor/Victor/362
 #EXTINF:-1 tvg-id="Gamavision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="•  ECUADOR •",Gamavision
 http://tv.nousiptv.com:8080/diegonandez/801342/53456
 #EXTINF:-1 tvg-id=Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="•  ECUADOR •",Teleamazonas
 http://50.7.66.234:8080/moontools/6548@89787/53459
-#EXTINF:-1 tvg-id=Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="•  ECUADOR •",Teleamazonas 2
-http://50.7.66.234:8080/moontools/6548@89787/3428
-#EXTINF:-1 group-title="•  ECUADOR •" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_%28Ecuador%29_logo.png/220px-Canal_Uno_%28Ecuador%29_logo.png",CANAL UNO
-http://50.7.66.234:8080/moontools/6548@89787/3436
 
 
 
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="•  ECUADOR •",Ecuavisa Web
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="•  ECUADOR •",Ecuavisa Web (No 24/7)
 https://mdstrm.com/live-stream-playlist/6089d0a7f61e11081f8c832a.m3u8
 #EXTINF:-1 tvg-id="RTS.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="•  ECUADOR •",RTS 
 https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
