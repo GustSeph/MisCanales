@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="•  ECUADOR •",Ecuavisa 
-http://mytvstream.net:8080/Dwayne/Dwayne/164905
+http://nmstreaming.live:25461/CarlosVelazquezS/8HdC9MdKTuQC/153885
 
 #EXTINF:-1 tvg-id="Oromar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="•  ECUADOR •",Oromar TV
 http://nmstreaming.live:25461/CarlosVelazquezS/8HdC9MdKTuQC/176967
@@ -13,7 +13,7 @@ http://nmstreaming.live:25461/CarlosVelazquezS/8HdC9MdKTuQC/11039
 http://nmstreaming.live:25461/CarlosVelazquezS/8HdC9MdKTuQC/2130522
 
 #EXTINF:-1 tvg-id=Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="•  ECUADOR •",Teleamazonas
-http://50.7.66.234:8080/moontools/6548@89787/53459
+http://nmstreaming.live:25461/CarlosVelazquezS/8HdC9MdKTuQC/153891
 
 #EXTINF:-1 tvg-id=Canal Uno" group-title="•  ECUADOR •" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_%28Ecuador%29_logo.png/220px-Canal_Uno_%28Ecuador%29_logo.png",CANAL UNO
 http://mytvstream.net:8080/Dwayne/Dwayne/164914
