@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="•  ECUADOR •",Ecuavisa 
-http://mytvstream.net:8080/Dwayne/Dwayne/164905 ,,
+http://mytvstream.net:8080/Dwayne/Dwayne/164905
 
 #EXTINF:-1 tvg-id="Oromar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="•  ECUADOR •",Oromar TV
 http://nmstreaming.live:25461/CarlosVelazquezS/8HdC9MdKTuQC/176967
