@@ -13,7 +13,8 @@ https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=206
 https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=174
 
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="•  ECUADOR •",Ecuavisa 
-http://nmstreaming.live:25461/CarlosVelazquezS/8HdC9MdKTuQC/153885
+http://mael-tv.online:8080/live/Sebastian3/Sebastian3/2411.ts
+*http://nmstreaming.live:25461/CarlosVelazquezS/8HdC9MdKTuQC/153885
 
 #EXTINF:-1 tvg-id="Oromar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="•  ECUADOR •",Oromar TV
 http://nmstreaming.live:25461/CarlosVelazquezS/8HdC9MdKTuQC/176967
