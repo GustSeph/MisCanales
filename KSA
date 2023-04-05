@@ -14,19 +14,19 @@ http://mael-tv.online:8080/live/Sebastian3/Sebastian3/221646.ts
 
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="•  ECUADOR •",Ecuavisa 
 http://mael-tv.online:8080/live/Sebastian3/Sebastian3/2411.ts
-*http://nmstreaming.live:25461/CarlosVelazquezS/8HdC9MdKTuQC/153885
+*http://185.53.88.153:2095/live/Area504/504restream/24652.ts
 
 #EXTINF:-1 tvg-id="Oromar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="•  ECUADOR •",Oromar TV
-http://nmstreaming.live:25461/CarlosVelazquezS/8HdC9MdKTuQC/176967
+http://185.53.88.153:2095/live/Area504/504restream/115733.ts
 
 #EXTINF:-1 tvg-id="Tc Television" tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="•  ECUADOR •",TC Television
-http://nmstreaming.live:25461/CarlosVelazquezS/8HdC9MdKTuQC/11039
+http://185.53.88.153:2095/live/Area504/504restream/24149.ts
 
 #EXTINF:-1 tvg-id="Gamavision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="•  ECUADOR •",Gamavision
-http://nmstreaming.live:25461/CarlosVelazquezS/8HdC9MdKTuQC/2130522
+http://185.53.88.153:2095/live/Area504/504restream/354.ts
 
 #EXTINF:-1 tvg-id=Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="•  ECUADOR •",Teleamazonas
-http://nmstreaming.live:25461/CarlosVelazquezS/8HdC9MdKTuQC/153891
+http://185.53.88.153:2095/live/Area504/504restream/24644.ts
 
 #EXTINF:-1 tvg-id=Canal Uno" group-title="•  ECUADOR •" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_%28Ecuador%29_logo.png/220px-Canal_Uno_%28Ecuador%29_logo.png",CANAL UNO
 http://mytvstream.net:8080/Dwayne/Dwayne/164914
