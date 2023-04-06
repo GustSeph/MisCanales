@@ -1,20 +1,37 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",HBO+
-http://mael-tv.online:8080/live/Sebastian3/Sebastian3/46158.ts
+http://185.53.88.153:2095/live/Area504/504restream/9754.ts
+*http://mael-tv.online:8080/live/Sebastian3/Sebastian3/46158.ts
+
+#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",HBO 2
+http://185.53.88.153:2095/live/Area504/504restream/10120.ts
+
+#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",HBO HD
+http://185.53.88.153:2095/live/Area504/504restream/9753.ts
+
 
 #EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",HBO Family
-http://mael-tv.online:8080/live/Sebastian3/Sebastian3/46155.ts
+http://185.53.88.153:2095/live/Area504/504restream/9752.ts
+*http://mael-tv.online:8080/live/Sebastian3/Sebastian3/46155.ts
 
 #EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",Star Channel
-https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=206
+http://185.53.88.153:2095/live/Area504/504restream/32316.ts
 
 #EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",Space
-http://mael-tv.online:8080/live/Sebastian3/Sebastian3/221646.ts
+http://185.53.88.153:2095/live/Area504/504restream/15129.ts
+*http://mael-tv.online:8080/live/Sebastian3/Sebastian3/221646.ts
+
+#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",CINE LATINO
+http://185.53.88.153:2095/live/Area504/504restream/1817.ts
+
+#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",TNT
+http://185.53.88.153:2095/live/Area504/504restream/1864.ts
 
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="•  ECUADOR •",Ecuavisa 
-http://mael-tv.online:8080/live/Sebastian3/Sebastian3/2411.ts
-*http://185.53.88.153:2095/live/Area504/504restream/24652.ts
+http://185.53.88.153:2095/live/Area504/504restream/24652.ts
+*http://mael-tv.online:8080/live/Sebastian3/Sebastian3/2411.ts
+
 
 #EXTINF:-1 tvg-id="Oromar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="•  ECUADOR •",Oromar TV
 http://185.53.88.153:2095/live/Area504/504restream/115733.ts
