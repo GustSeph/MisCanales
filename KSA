@@ -10,7 +10,6 @@ http://185.53.88.153:2095/live/Area504/504restream/10120.ts
 #EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",HBO HD
 http://185.53.88.153:2095/live/Area504/504restream/9753.ts
 
-
 #EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",HBO Family
 http://185.53.88.153:2095/live/Area504/504restream/9752.ts
 *http://mael-tv.online:8080/live/Sebastian3/Sebastian3/46155.ts
@@ -27,6 +26,18 @@ http://185.53.88.153:2095/live/Area504/504restream/1817.ts
 
 #EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",TNT
 http://185.53.88.153:2095/live/Area504/504restream/1864.ts
+
+#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",FOOD NETWORK
+http://185.53.88.153:2095/live/Area504/504restream/24629.ts
+
+#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",EL GOURMET
+http://185.53.88.153:2095/live/Area504/504restream/40849.ts
+
+#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",NATGEO
+http://185.53.88.153:2095/live/Area504/504restream/32265.ts
+
+#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",ANIMAL PLANET
+http://185.53.88.153:2095/live/Area504/504restream/233952.ts
 
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="•  ECUADOR •",Ecuavisa 
 http://185.53.88.153:2095/live/Area504/504restream/24652.ts
