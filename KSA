@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",HBO+
+#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",HBO PLUS
 http://185.53.88.153:2095/live/Area504/504restream/9754.ts
 *http://mael-tv.online:8080/live/Sebastian3/Sebastian3/46158.ts
 
@@ -14,14 +14,14 @@ http://185.53.88.153:2095/live/Area504/504restream/9753.ts
 http://185.53.88.153:2095/live/Area504/504restream/9752.ts
 *http://mael-tv.online:8080/live/Sebastian3/Sebastian3/46155.ts
 
-#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",Star Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="•  ECUADOR •",Star Channel
 http://185.53.88.153:2095/live/Area504/504restream/32316.ts
 
-#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",Space
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg" group-title="•  ECUADOR •",Space
 http://185.53.88.153:2095/live/Area504/504restream/15129.ts
 *http://mael-tv.online:8080/live/Sebastian3/Sebastian3/221646.ts
 
-#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",CINE LATINO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="•  ECUADOR •",CINE LATINO
 http://185.53.88.153:2095/live/Area504/504restream/1817.ts
 
 #EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",TNT
@@ -30,13 +30,13 @@ http://185.53.88.153:2095/live/Area504/504restream/1864.ts
 #EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",FOOD NETWORK
 http://185.53.88.153:2095/live/Area504/504restream/24629.ts
 
-#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",EL GOURMET
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="•  ECUADOR •",EL GOURMET
 http://185.53.88.153:2095/live/Area504/504restream/40849.ts
 
 #EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",NATGEO
 http://185.53.88.153:2095/live/Area504/504restream/32265.ts
 
-#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="•  ECUADOR •",ANIMAL PLANET
 http://185.53.88.153:2095/live/Area504/504restream/233952.ts
 
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="•  ECUADOR •",Ecuavisa 
