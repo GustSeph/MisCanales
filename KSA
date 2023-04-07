@@ -1,39 +1,39 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",HBO PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="•  ECUADOR •",HBO PLUS
 http://185.53.88.153:2095/live/Area504/504restream/9754.ts
 *http://mael-tv.online:8080/live/Sebastian3/Sebastian3/46158.ts
 
-#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",HBO 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="•  ECUADOR •",HBO 2
 http://185.53.88.153:2095/live/Area504/504restream/10120.ts
 
-#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",HBO HD
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png" group-title="•  ECUADOR •",HBO HD
 http://185.53.88.153:2095/live/Area504/504restream/9753.ts
 
-#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",HBO Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="•  ECUADOR •",HBO Family
 http://185.53.88.153:2095/live/Area504/504restream/9752.ts
 *http://mael-tv.online:8080/live/Sebastian3/Sebastian3/46155.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="•  ECUADOR •",Star Channel
+#EXTINF:-1 tvg-logo="http://www.marketersbyadlatina.com/uploads/-5774-Star-Channel.jpg" group-title="•  ECUADOR •",Star Channel
 http://185.53.88.153:2095/live/Area504/504restream/32316.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg" group-title="•  ECUADOR •",Space
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png" group-title="•  ECUADOR •",Space
 http://185.53.88.153:2095/live/Area504/504restream/15129.ts
 *http://mael-tv.online:8080/live/Sebastian3/Sebastian3/221646.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="•  ECUADOR •",CINE LATINO
 http://185.53.88.153:2095/live/Area504/504restream/1817.ts
 
-#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",TNT
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tnt-latin-america-logo-6C5053D00E-seeklogo.com.png" group-title="•  ECUADOR •",TNT
 http://185.53.88.153:2095/live/Area504/504restream/1864.ts
 
-#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",FOOD NETWORK
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/food-network-logo-ED1A09F7B4-seeklogo.com.png" group-title="•  ECUADOR •",FOOD NETWORK
 http://185.53.88.153:2095/live/Area504/504restream/24629.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="•  ECUADOR •",EL GOURMET
 http://185.53.88.153:2095/live/Area504/504restream/40849.ts
 
-#EXTINF:-1 tvg-logo="" group-title="•  ECUADOR •",NATGEO
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/National_Geographic_Channel-logo-F53F22661B-seeklogo.com.png" group-title="•  ECUADOR •",NATGEO
 http://185.53.88.153:2095/live/Area504/504restream/32265.ts
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="•  ECUADOR •",ANIMAL PLANET
