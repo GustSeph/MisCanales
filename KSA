@@ -100,16 +100,15 @@ http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
 https://mediacpstreamchile.com:1936/sonoonda/sonoonda/playlist.m3u8
 
 
-#EXTINF:-1 group-title="• ECUADOR SPORT •" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/CNT_Sports.png",CNT SPORTS / GOL TV
-http://50.7.66.234:8080/moontools/6548@89787/7471
+
 #EXTINF:-1 group-title="• ECUADOR SPORT •" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/245px-GolTV_logo.svg.png",GOL TV HD
-http://50.7.66.234:8080/moontools/6548@89787/53491
+http://maxpro.cc:2095/live/Area504/504restream/355.ts
 #EXTINF:-1 group-title="• ECUADOR SPORT •" tvg-logo="https://duckduckgo.com/i/e50c2093.png",DIRECTV SPORTS HD
 http://maxpro.cc:2095/live/Area504/504restream/24650.ts
 #EXTINF:-1 group-title="• ECUADOR SPORT •" tvg-logo="https://duckduckgo.com/i/e50c2093.png",DIRECTV SPORTS 2 HD
 http://50.7.66.234:8080/moontools/6548@89787/53489
 #EXTINF:-1 group-title="• ECUADOR SPORT •" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png",EL CANAL DEL FUTBOL HD
-http://50.7.66.234:8080/moontools/6548@89787/1086208
+http://maxpro.cc:2095/live/Area504/504restream/32837.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ENTRETENIMIENTO" tvg-logo="",ESTRELLA TV
